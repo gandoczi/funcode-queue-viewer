@@ -24,7 +24,7 @@ Megjelenít egy **statisztikai panelt**, amely mutatja a sorbeli helyed és a v�
    - Firefox: [AMO link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
 2. Telepítsd a scriptet közvetlenül innen:  
-   👉 [**Install Script**](https://raw.githubusercontent.com/ichbinwhy/funcode-queue-viewer/main/src.js)
+   👉 [**Install Script**](https://raw.githubusercontent.com/gandoczi/funcode-queue-viewer/refs/heads/master/src.js)
 
 3. Tampermonkey megnyitja az install ablakot → kattints **Install**.
 
